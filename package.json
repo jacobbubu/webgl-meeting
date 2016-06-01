@@ -1,0 +1,49 @@
+{
+  "name": "webgl-meeting",
+  "version": "1.0.0",
+  "description": "WebGL Introduction for Amigo Team Technical Communications",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "start": "./start.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jacobbubu/webgl-meeting.git"
+  },
+  "keywords": [
+    "webgl",
+    "opengl",
+    "shader",
+    "beefy",
+    "browserify",
+    "coffee-script"
+  ],
+  "author": "Rong Shen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jacobbubu/webgl-meeting/issues"
+  },
+  "homepage": "https://github.com/jacobbubu/webgl-meeting",
+  "devDependencies": {
+    "beefy": "^2.1.2",
+    "browserify": "^8.1.1",
+    "canvas-testbed": "^1.0.3",
+    "coffee-script": "^1.8.0",
+    "coffeeify": "^1.0.0",
+    "domready": "^1.0.7",
+    "fps-component": "0.0.2",
+    "gl-clear": "^2.0.0",
+    "gl-matrix": "^2.1.0",
+    "keydown": "0.0.3",
+    "toggle-button": "^1.0.0",
+    "webgl-context": "^2.1.1"
+  },
+  "browserify": {
+    "transform": [
+      "coffeeify"
+    ]
+  }
+}

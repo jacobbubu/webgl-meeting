@@ -1,0 +1,830 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"data",
+				"database"
+			],
+			[
+				"re",
+				"retry"
+			],
+			[
+				"retry",
+				"retryCount"
+			],
+			[
+				"a",
+				"access_token"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"webS",
+				"webSocketServer"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"clien",
+				"client_2"
+			],
+			[
+				"bas",
+				"base64"
+			],
+			[
+				"User",
+				"UserScore"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "examples/perspectiveView_mvpMatrix.coffee",
+			"settings":
+			{
+				"buffer_size": 3877,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "examples/perspectiveView_mvpReverse.coffee",
+			"settings":
+			{
+				"buffer_size": 3935,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "examples/zfighting.coffee",
+			"settings":
+			{
+				"buffer_size": 3368,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "common/common.coffee",
+			"settings":
+			{
+				"buffer_size": 3592,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 1078,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "book-examples/ch07/PerspectiveView_mvpMatrix.js",
+			"settings":
+			{
+				"buffer_size": 4238,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "book-examples/ch07/Zfighting.js",
+			"settings":
+			{
+				"buffer_size": 3843,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "gulp",
+	"command_palette":
+	{
+		"height": 169.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"table",
+				"Table Editor: Enable for current view"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"tab",
+				"Table Editor: Enable for current view"
+			],
+			[
+				"mark",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"markdow",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"markdown",
+				"Pandoc: Render Markdown to HTML"
+			],
+			[
+				"",
+				"Pandoc: Render Markdown to temp PDF and View"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"hex",
+				"Preferences: Hex Viewer Settings – Default"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 610.0
+	},
+	"console":
+	{
+		"height": 167.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/shenrong/Dropbox/github/webgl-meeting",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/book-examples/ch07",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/book-examples/lib",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/book-examples/resources",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/common",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/examples",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/node_modules",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/node_modules/canvas-testbed",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/node_modules/domready"
+	],
+	"file_history":
+	[
+		"/Users/shenrong/.zshrc",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/examples/helloTriangle.coffee",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/examples/coloredTriangle.coffee",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/examples/rotatedTranslatedTriangle.coffee",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/examples/translatedTriangle.coffee",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/examples/helloQuad.coffee",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/examples/multiPoints.coffee",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/examples/zfighting.coffee",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/examples/helloPoint1.coffee",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/node_modules/gl-clear/index.js",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/examples/perspectiveView.coffee",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/common/common.coffee",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/node_modules/domready/Makefile",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/examples/helloTriangle_FragCoord.coffee",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/examples/scaledTriangle.coffee",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/book-examples/ch07/PerspectiveView.js",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/examples/lookAtTrianglesWithKeys.coffee",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/examples/lookAtRotatedTriangles.coffee",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/examples/lookAtTriangles.coffee",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/examples/lookAtTrianglesWithKeys_ViewVolume.coffee",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/examples/rotatedTriangle.coffee",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/examples/rotatedTriangle_Matrix.coffee",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/examples/rotatingTriangle.coffee",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/examples/texturedQuad.coffee",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/examples/texturedQuad_Clamp_Mirror.coffee",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/examples/lookAtRotatedTriangles_mvMatrix.coffee",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/examples/orthoView.coffee",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/book-examples/ch07/LookAtTrianglesWithKeys_ViewVolume.js",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/examples/helloPoint2.coffee",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/book-examples/ch07/OrthoView.js",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/common/div.coffee",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/book-examples/ch07/LookAtTriangles.js",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/book-examples/ch07/LookAtRotatedTriangles_mvMatrix.js",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/book-examples/ch07/LookAtTrianglesWithKeys.js",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/examples/multiTexture.coffee",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/book-examples/ch05/MultiTexture.js",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/book-examples/ch07/ColoredCube_singleColor.js",
+		"/Users/shenrong/Library/Application Support/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/Users/shenrong/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/shenrong/Library/Application Support/Sublime Text 3/Packages/User/Modific.sublime-settings",
+		"/Users/shenrong/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/shenrong/Library/Application Support/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/book-examples/ch05/ColoredTriangle.js",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/node_modules/beefy/lib/handlers/static.js",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/book-examples/ch05/MultiAttributeSize.js",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/book-examples/lib/cuon-utils.js",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/start.sh",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/book-examples/ch07/PerspectiveView_mvp.js",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/book-examples/ch07/PerspectiveView_mvp.html",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/examples/multiAttributeColor.coffee",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/package.json",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/book-examples/ch05/MultiAttributeColor.js",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/examples/multiAttributeSize.coffee",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/book-examples/ch03/RotatedTriangle_Matrix.js",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/examples/multiAttributeSize_Interleaved.coffee",
+		"/Users/shenrong/.ssh/aws-chn.pem",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/npm-debug.log",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/node_modules/canvas-testbed/node_modules/canvas-app/index.js",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/book-examples/ch03/TranslatedTriangle.js",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/examples/clickedPoints.coffee",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/examples/coloredPoints.coffee",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/examples/helloPoint.coffee",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/book-examples/ch02/DrawRectangle.js",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/book-examples/ch02/ClickedPoints.js",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/node_modules/canvas-testbed/index.js",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/webgl-meeting.sublime-project",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/examples/ch02/HelloPoint2.js",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/examples/lib/cuon-utils.js",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/examples/lib/cuon-matrix.js",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/examples/ch02/HelloPoint1.js",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/testbed/testbed.coffee",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/helloPoint/helloPoint.coffee",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/clickedPoints/clickedPoints.coffee",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/node_modules/canvas-testbed/node_modules/canvas-app/node_modules/webgl-context/index.js",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/node_modules/canvas-testbed/demo/demo-webgl.js",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/common.coffee",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/outline.md",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/.gitignore",
+		"/Users/shenrong/Dropbox/github/webgl-meeting/.npmignore",
+		"/Users/shenrong/Dropbox/github/frp-meeting/doubleCclick/index.html",
+		"/Users/shenrong/Dropbox/github/frp-meeting/snake/pos.coffee",
+		"/Users/shenrong/Dropbox/github/frp-meeting/bower.json",
+		"/Users/shenrong/Dropbox/github/frp-meeting/.gitignore",
+		"/Users/shenrong/Dropbox/github/frp-meeting/snake/snake.coffee",
+		"/Users/shenrong/Dropbox/github/frp-meeting/snake/snake.css",
+		"/Users/shenrong/Dropbox/github/frp-meeting/snake/intro.md",
+		"/Users/shenrong/Dropbox/github/frp-meeting/scan/scan.coffee",
+		"/Users/shenrong/Dropbox/github/frp-meeting/sampledBy/sampledBy.coffee",
+		"/Users/shenrong/Dropbox/github/frp-meeting/snake/snake1.html",
+		"/Users/shenrong/Dropbox/github/frp-meeting/snake/util.coffee",
+		"/Users/shenrong/Dropbox/bitbucket/nextday-server-v4.5/server/src/tasks/deliverGiftTask.coffee",
+		"/Users/shenrong/Dropbox/bitbucket/nextday-server-v4.5/server/npm-debug.log",
+		"/Users/shenrong/Dropbox/bitbucket/nextday-server-v4.5/server/src/actions/calendar.coffee",
+		"/Users/shenrong/Dropbox/bitbucket/nextday-server-v4.5/server/tools/deleteUser.coffee",
+		"/Users/shenrong/Dropbox/bitbucket/nextday-server-v4.5/server/src/initializers/calendar.coffee",
+		"/Users/shenrong/Dropbox/bitbucket/nextday-server-v4.5/server/test/actionCalendar-test.coffee",
+		"/Users/shenrong/Dropbox/bitbucket/nextday-server-v4.5/server/config/adv.js",
+		"/Users/shenrong/Dropbox/bitbucket/nextday-server-v4.5/server/test/stress/singleStress.coffee",
+		"/Users/shenrong/Dropbox/bitbucket/nextday-server-v4.5/server/src/initializers/adv.coffee",
+		"/Users/shenrong/Dropbox/bitbucket/nextday-server-v4.5/server/src/schemas/nextdaySchemas.coffee",
+		"/Users/shenrong/Dropbox/bitbucket/nextday-server-v4.5/server/test/actionOutboxDel-test.coffee",
+		"/Users/shenrong/Dropbox/bitbucket/nextday-server-v4.5/server/src/initializers/memDetector.coffee",
+		"/Users/shenrong/Dropbox/bitbucket/nextday-server-v4.5/server/src/initializers/nextRedis.coffee",
+		"/Users/shenrong/Dropbox/bitbucket/nextday-server-v4.5/server/src/initializers/actionMiddleware.coffee",
+		"/Users/shenrong/Dropbox/bitbucket/nextday-server-v4.5/server/src/initializers/weibo.coffee",
+		"/Users/shenrong/Dropbox/bitbucket/nextday-server-v4.5/server/src/actions/outbox.coffee",
+		"/Users/shenrong/Dropbox/bitbucket/nextday-server-v4.5/server/config/calendar.js",
+		"/Users/shenrong/Dropbox/bitbucket/nextday-server-v4.5/server/node_modules/redis/index.js",
+		"/Users/shenrong/Dropbox/bitbucket/nextday-server-v4.5/server/src/servers/publicWeb.coffee",
+		"/Users/shenrong/Dropbox/bitbucket/nextday-server-v4.5/server/package.json",
+		"/Users/shenrong/Dropbox/bitbucket/nextday-server-v4.5/server/nextday.sublime-project",
+		"/Users/shenrong/Dropbox/bitbucket/nextday-server-v4.5/server/src/actions/publicCalendar.coffee",
+		"/Users/shenrong/Dropbox/bitbucket/nextday-server-v4.5/server/partnerKeys/partnerKeys.cson",
+		"/Users/shenrong/Dropbox/bitbucket/nextday-server-v4.5/server/restartProd.sh",
+		"/Users/shenrong/Dropbox/bitbucket/nextday-server-v4.5/server/routes.js",
+		"/Users/shenrong/Dropbox/bitbucket/nextday-server-v4.5/server/config/servers/publicWeb.js",
+		"/Users/shenrong/Dropbox/bitbucket/nextday-server-v4.5/server/tools/runAction.coffee",
+		"/Users/shenrong/Dropbox/bitbucket/nextday-server-v4.5/server/node_modules/actionhero/bin/methods/startCluster.js",
+		"/Users/shenrong/Dropbox/bitbucket/nextday-server-v4.5/server/test/stress/client.coffee",
+		"/Users/shenrong/Dropbox/bitbucket/nextday-server-v4.5/server/startProd.sh",
+		"/Users/shenrong/t1.coffee",
+		"/Users/shenrong/Dropbox/bitbucket/nextday-server-v4.5/server/src/initializers/wsPlugins.coffee",
+		"/Users/shenrong/Dropbox/bitbucket/nextday-server-v4.5/server/src/servers/rfcWebSocket.coffee",
+		"/Users/shenrong/Dropbox/bitbucket/nextday-server-v4.5/server/config/servers/rfcWebSocket.js",
+		"/Users/shenrong/Dropbox/bitbucket/nextday-server-v4.5/server/tools/downgradeUser.coffee",
+		"/Users/shenrong/Dropbox/bitbucket/nextday-server-v4.5/server/tools/pushCurl.sh",
+		"/Users/shenrong/Dropbox/bitbucket/nextday-server-v4.5/server/src/models/users.coffee",
+		"/Users/shenrong/Dropbox/bitbucket/nextday-server-v4.5/server/broadcast/stock_gifts.cson"
+	],
+	"find":
+	{
+		"height": 50.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"/Users/shenrong/Dropbox/github/webgl-meeting/node_modules",
+			"/Users/shenrong/Dropbox/bitbucket/nextday-server-v4.5/server/src",
+			"/Users/shenrong/Dropbox/github/nextday-server-v4.5/server",
+			"/Users/shenrong/Dropbox/github/nextday-server-v4.5/server/src",
+			"/Users/shenrong/Dropbox/github/nextday-server-v4.5/server/node_modules/actionhero",
+			"/Users/shenrong/Dropbox/github/raclette/rac-crawler/src",
+			"/Users/shenrong/Dropbox/github/raclette/rac-crawler",
+			"/Users/shenrong/Dropbox/github/raclette/rac-db/node_modules/dnode-server/node_modules/minilog",
+			"/Users/shenrong/Dropbox/github/raclette/rac-db",
+			"/Users/shenrong/Dropbox/github/mux-dnode-butt/node_modules/dnode",
+			"/Users/shenrong/Dropbox/github/nextday-server-v4/webserver/dist",
+			"/Users/shenrong/tmp/first-project",
+			"/Users/shenrong/Dropbox/github/nextday-server/server",
+			"/Users/shenrong/Dropbox/github/nextday-server/server/node_modules/actionHero",
+			"/Users/shenrong/Dropbox/github/nextday-server/server/src",
+			"/Users/shenrong/github/nextday-server/server",
+			"/Users/shenrong/github/nextday-server/server/node_modules/mongoose",
+			"/Users/shenrong/tmp/actionHeroTest"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Tx",
+			"DEPTH_BUFFER_BIT",
+			"enable",
+			"gl.enable",
+			"enable",
+			"u_ViewProjMatrix",
+			"resize",
+			"onResize",
+			"resize",
+			"a_Position",
+			"vertexColorbuffer",
+			"a_Position",
+			"u_ProjMatrix",
+			"xformMatrix",
+			"u_xformMatrix",
+			"domready",
+			"u_ViewMatrix",
+			"xform",
+			"vertexBuffer",
+			"vertices",
+			"image",
+			"vertices",
+			"a_PointSize",
+			"verticesSizes",
+			"vertices",
+			"bindBuffer",
+			"vertexColorBuffer",
+			"vertexBuffer",
+			"modelMatrix",
+			"animate",
+			"ANGLE_STEP",
+			"modelMatrix",
+			"console",
+			"canvas",
+			"DPR",
+			"canvasApp",
+			"debounce",
+			"makeDebugContext",
+			"setupWebGL",
+			"render",
+			"createProgram",
+			"stop",
+			"isGL",
+			"gl",
+			"initShader",
+			"toRight",
+			"test",
+			"gl",
+			"start",
+			"stop",
+			"toggleAnimation",
+			"accepts",
+			"accept.encodings",
+			"app.",
+			"middleware",
+			"accept",
+			"gzip",
+			"ayncServer",
+			"sampled",
+			"separateBy",
+			"startPosition",
+			"position",
+			"getPosition",
+			"bindInputs",
+			"fillCells",
+			"contain",
+			"contaim",
+			"input",
+			"api.leanCloudPush.newGift",
+			"api.push",
+			"cb",
+			"_transport",
+			"maxModifiedAt",
+			"greate",
+			"console",
+			"ts",
+			"beginKeys",
+			"downloadKeys",
+			"moment",
+			"orderedKeys",
+			"sort",
+			"parse",
+			"value",
+			"moment",
+			"data45",
+			"calendar",
+			"RedisClient",
+			"command_queue",
+			"setTimeout",
+			"nextda",
+			"nextday",
+			"incomingMessage",
+			"actionName",
+			"subscribe",
+			"argv",
+			"route",
+			"database",
+			"api.log",
+			"verifyClient",
+			"buildConn",
+			"buildConnection",
+			"verifyClient",
+			"remotePort",
+			"x-forwarded-for",
+			"verify",
+			"connection",
+			"envVarsProcess",
+			"api.log",
+			"verify",
+			"[i]",
+			"name",
+			"[i]",
+			"sendPush",
+			"Send gift",
+			"apnToken",
+			"binary",
+			"cluster",
+			"actionhero",
+			"hasMer",
+			"start",
+			"tooManyPendingActions",
+			"too_many_requests",
+			"remoteAddress",
+			"consig",
+			"console",
+			"useNewGift",
+			"api.models.users.set",
+			"console"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Minilog",
+			": true",
+			"",
+			"'",
+			"",
+			"api.nextRedis.ns"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "examples/perspectiveView_mvpMatrix.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3877,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2791,
+								2791
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1053.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "examples/perspectiveView_mvpReverse.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3935,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3637,
+								3645
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1604.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "examples/zfighting.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3368,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2966,
+								2966
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1207.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "common/common.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3592,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3498,
+								3498
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1339.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "package.json",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1078,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								247,
+								247
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "book-examples/ch07/PerspectiveView_mvpMatrix.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4238,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1789,
+								1789
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1212.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "book-examples/ch07/Zfighting.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3843,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1090,
+								1147
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 758.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.554274066839,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GoSublime-main-output":
+	{
+		"height": 146.0
+	},
+	"output.exec":
+	{
+		"height": 210.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "webgl-meeting.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 349.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
